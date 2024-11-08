@@ -1,0 +1,8 @@
+# 忽略所有内容
+*
+
+# 保留 .gitignore 文件自身
+!.gitignore
+
+# 保留 Assets 文件夹及其内容
+!Assets/*
